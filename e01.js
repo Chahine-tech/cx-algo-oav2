@@ -19,4 +19,4 @@ function bubble_sort(arr){
 
     return arr;
 }
-console.log(bubble_sort([3, 0, 6, 10, -60 , 2, 55, 4, -2, -30, 7]))
+console.log(bubble_sort([3, 0, 6, 10, -60 , 2, 55, 4, -2, -30, 7, 15]))

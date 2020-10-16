@@ -17,4 +17,4 @@ function selectionSorting(arr) {
     return arr;
 }
 
-console.log(selectionSorting([ 4,3,5,2 ])) //  résult final[2,3,4,5]
+console.log(selectionSorting([ 4,3,7,2 ])) //  résult final[2,3,4,7]
